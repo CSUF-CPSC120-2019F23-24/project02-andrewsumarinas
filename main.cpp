@@ -1,1 +1,1 @@
-// This program calculates and displays business expenses.
+/home/student/CPSC120/project02-AndrewSumarinas/main.cpp
